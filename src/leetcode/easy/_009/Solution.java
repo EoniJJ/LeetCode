@@ -5,6 +5,9 @@ package leetcode.easy._009;
  */
 public class Solution {
 
+
+//    Determine whether an integer is a palindrome. Do this without extra space. example:  52125 return true
+    
     public boolean isPalindrome(int x) {
         if (x < 0) {
             return false;
